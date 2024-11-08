@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NandiGowda003
+- 👋 Hi, I’m @Nandeesha CG
 - 👀 I’m interested in Data Analysis And ML models
 - 🌱 I have total 7+ Year Experience with Data analysis and Backend Networking
 - 💞️ I’m looking to collaborate on Freelance Project
