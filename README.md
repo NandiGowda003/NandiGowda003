@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Nandeesha C G
-  Data Analyst | Data Engineer | Operations Analytics  6+ Years of experience
+  Data Analyst | Data Engineer | Operations Analytics with 6+ Years of experience.
 I work across the full data lifecycle — from raw data ingestion and transformation
 to analysis, dashboards, and business insights.
 
