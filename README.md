@@ -3,11 +3,7 @@
 I work across the full data lifecycle — from raw data ingestion and transformation
 to analysis, dashboards, and business insights.
 
-<!--
-**NandiGowda003/NandiGowda003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## 🧠 Core Skills
-
 ### 🔹 Data & Programming
 - SQL (Advanced queries, joins, CTEs, window functions)
 - Python (Pandas, NumPy)
@@ -83,3 +79,9 @@ to analysis, dashboards, and business insights.
 ## 📫 Contact
 - LinkedIn: linkedin.com/in/nandeesha-cg-23370112b/
 - Email: nandigowda.96@gmail.com
+
+<!--
+**NandiGowda003/NandiGowda003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
