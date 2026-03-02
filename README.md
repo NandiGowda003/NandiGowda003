@@ -1,81 +1,53 @@
-## Hi there 👋 I'm Nandeesha C G
-  Data Analyst | Data Engineer | Operations Analytics with 6+ Years of experience.
-I work across the full data lifecycle — from raw data ingestion and transformation
-to analysis, dashboards, and business insights.
+## Hi there 👋 I'm Nandeesha C G - a **Data Engineer** with 6+ years of experience building scalable data pipelines, analytics layers, and dashboards.  
+I specialize in **SQL, Python, Spark, Databricks, and Azure Data Factory**, with a strong focus on **modern lakehouse architectures**.
 
-## 🧠 Core Skills
-### 🔹 Data & Programming
-- SQL (Advanced queries, joins, CTEs, window functions)
-- Python (Pandas, NumPy)
-- PySpark (Databricks)
+---
 
-### 🔹 Data Engineering
-- Databricks
-- ETL / ELT Pipelines
-- Data Cleaning & Transformation
-- Batch Processing
-
-### 🔹 Analytics & BI
-- Power BI (DAX, dashboards)
-- Excel (Advanced formulas, Pivot tables)
-- KPI & Business Metrics Analysis
-
-### 🔹 Machine Learning (Basics)
-- Regression
-- Classification
-- Feature Engineering
-- Model Evaluation
+## 🔧 Tech Stack
+- **Languages & Tools:** Python · SQL · Git · GitHub  
+- **Databases:** SQL Server  
+- **Data Engineering:** ETL/ELT · Data Modeling · Pipeline Development  
+- **Big Data & Cloud:** Apache Spark · PySpark · Databricks · Azure Data Factory  
+- **Visualization:** Power BI  
+- **Architecture:** Data Warehouse · Lakehouse · Analytics Engineering  
 
 ---
 
 ## 📂 Featured Projects
 
-### 🚀 End-to-End Sales Data Pipeline
-**Role:** Data Engineer + Analyst  
-**Tools:** SQL, Databricks, PySpark, Power BI  
-
-- Built ETL pipeline using PySpark in Databricks
-- Cleaned and transformed raw sales data
-- Stored curated data for analytics
-- Created Power BI dashboard for revenue & trend analysis  
-
-**Key Learning:** Designed scalable pipelines and enabled business reporting.
+### 1. End-to-End ETL Pipeline (Startup Client)
+- Built ingestion pipelines in **Python + SQL Server**.  
+- Designed analytics-ready models for reporting.  
+- Delivered **Power BI dashboards** for business insights.  
 
 ---
 
-### 📊 Operations Performance Analysis
-**Role:** Operations Analyst  
-**Tools:** SQL, Excel, Power BI  
-
-- Analyzed operational KPIs (SLA, efficiency, volume)
-- Identified bottlenecks impacting performance
-- Automated reports using SQL + Excel  
+### 2. Lakehouse Pipeline with Databricks (Learning Project)
+- Implemented **Bronze → Silver → Gold** layered architecture.  
+- Used **PySpark** for transformations.  
+- Orchestrated workflows with **Azure Data Factory**.  
 
 ---
 
-### 📈 Customer Analytics Project
-**Role:** Data Analyst  
-**Tools:** Python, SQL  
-
-- Performed data cleaning and EDA using Pandas
-- Identified customer behavior patterns
-- Applied basic ML models for prediction  
-
-**Key Insight:** Highlighted customer segments with high churn risk.
+### 3. Power BI Analytics Dashboards
+- Created dashboards tracking **student engagement & retention**.  
+- Automated reporting pipelines from SQL Server.  
 
 ---
 
-## 🔁 What I Bring to a Team
-- Understand business problems from Ops experience
-- Build reliable data pipelines as a Data Engineer
-- Convert data into insights as a Data Analyst
-- Communicate findings clearly to stakeholders
+## 📊 Career Snapshot
+- **Freelance Data Engineer (2022–Present):** Delivered end-to-end projects for startups.  
+- **Byju’s (2020–2022):** Built Power BI dashboards, SQL-based analytics.  
+- **Bounce (2018–2020):** Managed rental operations data with Excel & reporting.  
 
 ---
 
-## 📄 Resume
-- 📎 Resume: 
+## 🌟 What I Bring
+- End-to-end pipeline ownership: ingestion → transformation → visualization.  
+- Strong foundation in **SQL Server + Power BI**, now scaling into **Databricks + Azure**.  
+- GitHub portfolio showcasing **hands-on projects** with clean documentation.    
 
+---
 ## 📫 Contact
 - LinkedIn: linkedin.com/in/nandeesha-cg-23370112b/
 - Email: nandigowda.96@gmail.com
