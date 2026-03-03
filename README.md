@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Nandeesha C G - a **Data Engineer** with 6+ years of experience building scalable data pipelines, analytics layers, and dashboards.  
+## Hi there 👋 I'm Nandeesha C G - a **Data Engineer** with 5+ years of experience building scalable data pipelines, analytics layers, and dashboards.  
 I specialize in **SQL, Python, Spark, Databricks, and Azure Data Factory**, with a strong focus on **modern lakehouse architectures**.
 
 ---
