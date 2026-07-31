@@ -22,7 +22,7 @@ I specialize in **SQL, Python, Spark, Databricks, and Azure Data Factory**, with
 
 ---
 
-### 2. Lakehouse Pipeline with Databricks (Learning Project)
+### 2. Lakehouse Pipeline with Databricks
 - Implemented **Bronze → Silver → Gold** layered architecture.  
 - Used **PySpark** for transformations.  
 - Orchestrated workflows with **Azure Data Factory**.  
