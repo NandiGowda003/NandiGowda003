@@ -1,59 +1,57 @@
-## Hi there 👋 I'm Nandeesha C G - **Data Engineer** with 5+ years of experience building scalable data pipelines, analytics layers, and dashboards.  
-I specialize in **SQL, Python, Spark, Databricks, and Azure Data Factory**, with a strong focus on **modern lakehouse architectures**.
+# Nandeesha C G — Data Engineer
+
+Experienced data engineer focusing on building reliable, scalable data pipelines and analytics solutions for business outcomes.
 
 ---
 
-## 🔧 Tech Stack
-- **Languages & Tools:** Python · SQL · Git · GitHub  
-- **Databases:** SQL Server  
-- **Data Engineering:** ETL/ELT · Data Modeling · Pipeline Development  
-- **Big Data & Cloud:** Apache Spark · PySpark · Databricks · Azure Data Factory  
-- **Visualization:** Power BI  
-- **Architecture:** Data Warehouse · Lakehouse · Analytics Engineering  
+## Summary
+
+I design and implement end-to-end data solutions: ingestion, transformation, storage, and reporting. My work centers on modern lakehouse and data warehouse patterns using SQL Server, Databricks, and PySpark to deliver production-ready data assets and dashboards.
+
+### Core strengths
+- Pipeline design & development (ETL/ELT), data modeling, and performance tuning
+- PySpark / Apache Spark, Databricks, Delta Lake
+- SQL Server, T-SQL, analytics-ready schema design
+- Orchestration & cloud integrations (Azure Data Factory)
+- Reporting & visualization: Power BI
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
-### 1. End-to-End ETL Pipeline (Startup Client)
-- Built ingestion pipelines in **Python + SQL Server**.  
-- Designed analytics-ready models for reporting.  
-- Delivered **Power BI dashboards** for business insights.  
+### End-to-End ETL Pipeline
+- Implemented ingestion and transformation pipelines using Python and SQL Server.
+- Delivered analytics-ready models and automated Power BI reports for stakeholders.
 
----
+### Lakehouse Pipeline (Databricks)
+- Built Bronze → Silver → Gold layered pipeline using PySpark and Delta Lake.
+- Orchestrated jobs and managed data quality for reliable downstream analytics.
 
-### 2. Lakehouse Pipeline with Databricks
-- Implemented **Bronze → Silver → Gold** layered architecture.  
-- Used **PySpark** for transformations.  
-- Orchestrated workflows with **Azure Data Factory**.  
-
----
-
-### 3. Power BI Analytics Dashboards
-- Created dashboards tracking **student engagement & retention**.  
-- Automated reporting pipelines from SQL Server.  
+### Analytics & Dashboards
+- Built Power BI dashboards for user engagement and operational reporting.
+- Automated data refreshes and simplified stakeholder access to insights.
 
 ---
 
-## 📊 Career Snapshot
-- **Freelance Data Engineer (2022–Present):** Delivered end-to-end projects for startups.  
-- **Byju’s (2020–2022):** Built Power BI dashboards, SQL-based analytics.  
-- **Bounce (2018–2020):** Managed rental operations data with Excel & reporting.  
+## Tech & Tools
+- Languages: Python, SQL (T-SQL)
+- Big Data: Apache Spark, PySpark, Databricks, Delta Lake
+- Orchestration / Cloud: Azure Data Factory, Azure
+- Visualization: Power BI
+- Workflow: Git, GitHub
 
 ---
 
-## 🌟 What I Bring
-- End-to-end pipeline ownership: ingestion → transformation → visualization.  
-- Strong foundation in **SQL Server + Power BI**, now scaling into **Databricks + Azure**.  
-- GitHub portfolio showcasing **hands-on projects** with clean documentation.    
+## Get started / View projects
+- Explore repositories in this profile for notebooks, scripts, and SQL examples.
+- Example: Open the `Data_LakeHouse_DataBricks_Spark` repo for a Databricks-based lakehouse demo.
 
 ---
-## 📫 Contact
-- LinkedIn: linkedin.com/in/nandeesha-cg-23370112b/
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/nandeesha-cg-23370112b/
 - Email: nandigowda.96@gmail.com
 
-<!--
-**NandiGowda003/NandiGowda003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-
-
+Licensed under the MIT License.
